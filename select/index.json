@@ -1,0 +1,224 @@
+{
+  "version": 1,
+  "base_track": "不可思議のカルテ",
+  "base_artist": "桜島麻衣（CV：瀬戸麻沙美）、古賀朋絵（CV：東山奈央）、双葉理央（CV：種﨑敦美）、豊浜のどか（CV：内田真礼）、梓川かえで（CV：久保ユリカ）、牧之原翔子（CV：水瀬いのり）",
+  "createdAt": "2025-12-29T01:19:08.423746Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "不可思議のカルテ",
+      "artist": "fox capture plan",
+      "has_synced": false,
+      "path": "select/01_不可思議のカルテ_fox_capture_plan.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "不可思議のカルテ 桜島麻衣 Ver.",
+      "artist": "桜島麻衣(CV:瀬戸麻沙美)",
+      "has_synced": false,
+      "path": "select/02_不可思議のカルテ_桜島麻衣_Ver._桜島麻衣(CV_瀬戸麻沙美).txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "不可思議のカルテ",
+      "artist": "桜島麻衣(CV:瀬戸麻沙美)",
+      "has_synced": true,
+      "path": "select/03_不可思議のカルテ_桜島麻衣(CV_瀬戸麻沙美).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "不可思議のカルテ",
+      "artist": "桜島麻衣(CV:瀬戸麻沙美), 古賀朋絵(CV:東山奈央), 双葉理央(CV:種﨑敦美), 豊浜のどか(CV:内田真礼), 梓川かえで(CV:久保ユリカ), 牧之原翔子(CV:水瀬いのり)",
+      "has_synced": true,
+      "path": "select/04_不可思議のカルテ_桜島麻衣(CV_瀬戸麻沙美),_古賀朋絵(CV_東山奈央),_双葉理央(CV_種﨑敦美),_豊浜のどか(CV_内田真礼),_梓川かえで(CV_久保ユリカ),_牧.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "不可思議のカルテ",
+      "artist": "桜島麻衣(CV.瀬戸麻沙美)、古賀朋絵(CV.東山奈央)、双葉理央(CV.種﨑敦美)、豊浜のどか(CV.内田真礼)、梓川かえで(CV.久保ユリカ)、牧之原翔子(CV.水瀬いのり)",
+      "has_synced": true,
+      "path": "select/05_不可思議のカルテ_桜島麻衣(CV.瀬戸麻沙美)、古賀朋絵(CV.東山奈央)、双葉理央(CV.種﨑敦美)、豊浜のどか(CV.内田真礼)、梓川かえで(CV.久保ユリカ)、牧之原翔子(.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "不可思議のカルテ (桜島麻衣ソロVer.)",
+      "artist": "桜島麻衣(CV.瀬戸麻沙美)",
+      "has_synced": false,
+      "path": "select/06_不可思議のカルテ_(桜島麻衣ソロVer.)_桜島麻衣(CV.瀬戸麻沙美).txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "不可思議のカルテ - Jazzhop Mix",
+      "artist": "Angel G",
+      "has_synced": false,
+      "path": "select/07_不可思議のカルテ_-_Jazzhop_Mix_Angel_G.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "不可思議のカルテ movie ver.",
+      "artist": "桜島麻衣(CV:瀬戸麻沙美)、古賀朋絵(CV:東山奈央)、双葉理央(CV:種﨑敦美)、豊浜のどか(CV:内田真礼)、梓川かえで(CV:久保ユリカ)、牧之原翔子(CV:水瀬いのり)",
+      "has_synced": true,
+      "path": "select/08_不可思議のカルテ_movie_ver._桜島麻衣(CV_瀬戸麻沙美)、古賀朋絵(CV_東山奈央)、双葉理央(CV_種﨑敦美)、豊浜のどか(CV_内田真礼)、梓川かえで(CV_久保ユリカ)、牧之原翔子(.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "不可思議のカルテ All Heroine Ver.",
+      "artist": "桜島麻衣(CV:瀬戸麻沙美)",
+      "has_synced": true,
+      "path": "select/09_不可思議のカルテ_All_Heroine_Ver._桜島麻衣(CV_瀬戸麻沙美).lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "不可思議のカルテ 古賀朋絵 Ver.",
+      "artist": "古賀朋絵(CV:東山奈央)",
+      "has_synced": false,
+      "path": "select/10_不可思議のカルテ_古賀朋絵_Ver._古賀朋絵(CV_東山奈央).txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "不可思議のカルテ",
+      "artist": "桜島麻衣",
+      "has_synced": true,
+      "path": "select/11_不可思議のカルテ_桜島麻衣.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "不可思議のカルテ",
+      "artist": "双葉理央（CV：種﨑敦美）",
+      "has_synced": true,
+      "path": "select/12_不可思議のカルテ_双葉理央(CV_種﨑敦美).lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "不可思議のカルテ",
+      "artist": "古賀朋絵（CV：東山奈央）",
+      "has_synced": true,
+      "path": "select/13_不可思議のカルテ_古賀朋絵(CV_東山奈央).lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "不可思議のカルテ",
+      "artist": "桜島麻衣（CV：瀬戸麻沙美）",
+      "has_synced": true,
+      "path": "select/14_不可思議のカルテ_桜島麻衣(CV_瀬戸麻沙美).lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "不可思議のカルテ",
+      "artist": "梓川かえで（CV：久保ユリカ）",
+      "has_synced": true,
+      "path": "select/15_不可思議のカルテ_梓川かえで(CV_久保ユリカ).lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "不可思議のカルテ",
+      "artist": "豊浜のどか（CV：内田真礼）",
+      "has_synced": true,
+      "path": "select/16_不可思議のカルテ_豊浜のどか(CV_内田真礼).lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "不可思議のカルテ　双葉理央ソロVer.",
+      "artist": "種﨑敦美",
+      "has_synced": false,
+      "path": "select/17_不可思議のカルテ_双葉理央ソロVer._種﨑敦美.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "不可思議のカルテ　桜島麻衣ソロVer.",
+      "artist": "瀬戸麻沙美",
+      "has_synced": false,
+      "path": "select/18_不可思議のカルテ_桜島麻衣ソロVer._瀬戸麻沙美.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "不可思議のカルテ　梓川かえでソロVer.",
+      "artist": "久保ユリカ",
+      "has_synced": true,
+      "path": "select/19_不可思議のカルテ_梓川かえでソロVer._久保ユリカ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "不可思議のカルテ",
+      "artist": "桜島麻衣(瀬戸麻沙美), 古賀朋絵(東山奈央), 双葉理央(種崎敦美), 豊浜のどか(内田真礼), 梓川かえで(久保ユリカ), 牧之原翔子(水瀬いのり)",
+      "has_synced": false,
+      "path": "select/pl_01_不可思議のカルテ_桜島麻衣(瀬戸麻沙美),_古賀朋絵(東山奈央),_双葉理央(種崎敦美),_豊浜のどか(内田真礼),_梓川かえで(久保ユリカ),_牧之原翔子(水瀬いのり).txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "不可思議のカルテ All Heroine Ver.",
+      "artist": "桜島麻衣(瀬戸麻沙美), 古賀朋絵(東山奈央), 双葉理央(種崎敦美), 豊浜のどか(内田真礼), 梓川かえで(久保ユリカ), 牧之原翔子(水瀬いのり)",
+      "has_synced": false,
+      "path": "select/pl_02_不可思議のカルテ_All_Heroine_Ver._桜島麻衣(瀬戸麻沙美),_古賀朋絵(東山奈央),_双葉理央(種崎敦美),_豊浜のどか(内田真礼),_梓川かえで(久保ユリカ),_牧之原翔子(水瀬いのり).txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "不可思議のカルテ",
+      "artist": "桜島麻衣(瀬戸麻沙美), 古賀朋絵(東山奈央), 双葉理央(種崎敦美), 豊浜のどか(内田真礼), 梓川かえで(久保ユリカ), 牧之原翔子(水瀬いのり)",
+      "has_synced": false,
+      "path": "select/pl_03_不可思議のカルテ_桜島麻衣(瀬戸麻沙美),_古賀朋絵(東山奈央),_双葉理央(種崎敦美),_豊浜のどか(内田真礼),_梓川かえで(久保ユリカ),_牧之原翔子(水瀬いのり).txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "不可思議のカルテ",
+      "artist": "桜島麻衣(瀬戸麻沙美), 古賀朋絵(東山奈央), 双葉理央(種崎敦美), 豊浜のどか(内田真礼), 梓川かえで(久保ユリカ), 牧之原翔子(水瀬いのり)",
+      "has_synced": false,
+      "path": "select/pl_04_不可思議のカルテ_桜島麻衣(瀬戸麻沙美),_古賀朋絵(東山奈央),_双葉理央(種崎敦美),_豊浜のどか(内田真礼),_梓川かえで(久保ユリカ),_牧之原翔子(水瀬いのり).txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "不可思議のカルテ",
+      "artist": "桜島麻衣(瀬戸麻沙美), 古賀朋絵(東山奈央), 双葉理央(種崎敦美), 豊浜のどか(内田真礼), 梓川かえで(久保ユリカ), 牧之原翔子(水瀬いのり)",
+      "has_synced": false,
+      "path": "select/pl_05_不可思議のカルテ_桜島麻衣(瀬戸麻沙美),_古賀朋絵(東山奈央),_双葉理央(種崎敦美),_豊浜のどか(内田真礼),_梓川かえで(久保ユリカ),_牧之原翔子(水瀬いのり).txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "不可思議のカルテ movie ver.",
+      "artist": "桜島麻衣(瀬戸麻沙美), 古賀朋絵(東山奈央), 双葉理央(種崎敦美), 豊浜のどか(内田真礼), 梓川かえで(久保ユリカ), 牧之原翔子(水瀬いのり)",
+      "has_synced": false,
+      "path": "select/pl_06_不可思議のカルテ_movie_ver._桜島麻衣(瀬戸麻沙美),_古賀朋絵(東山奈央),_双葉理央(種崎敦美),_豊浜のどか(内田真礼),_梓川かえで(久保ユリカ),_牧之原翔子(水瀬いのり).txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "不可思議のカルテ 桜島麻衣Ver.",
+      "artist": "桜島麻衣(瀬戸麻沙美), 古賀朋絵(東山奈央), 双葉理央(種崎敦美), 豊浜のどか(内田真礼), 梓川かえで(久保ユリカ), 牧之原翔子(水瀬いのり)",
+      "has_synced": false,
+      "path": "select/pl_07_不可思議のカルテ_桜島麻衣Ver._桜島麻衣(瀬戸麻沙美),_古賀朋絵(東山奈央),_双葉理央(種崎敦美),_豊浜のどか(内田真礼),_梓川かえで(久保ユリカ),_牧之原翔子(水瀬いのり).txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "不可思議のカルテ 桜島麻衣Ver.",
+      "artist": "桜島麻衣(瀬戸麻沙美), 古賀朋絵(東山奈央), 双葉理央(種崎敦美), 豊浜のどか(内田真礼), 梓川かえで(久保ユリカ), 牧之原翔子(水瀬いのり)",
+      "has_synced": false,
+      "path": "select/pl_08_不可思議のカルテ_桜島麻衣Ver._桜島麻衣(瀬戸麻沙美),_古賀朋絵(東山奈央),_双葉理央(種崎敦美),_豊浜のどか(内田真礼),_梓川かえで(久保ユリカ),_牧之原翔子(水瀬いのり).txt"
+    }
+  ]
+}
